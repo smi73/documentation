@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Porsevej Engineering'
+copyright = '2022, Porsevej Engineering'
+author = 'Søren Mikkelsen'
 
 release = '0.1'
 version = '0.1.0'
